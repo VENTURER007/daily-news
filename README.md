@@ -1,2 +1,2 @@
-# shoecompany
-The E-commerce show store project
+# DailyNews
+all the news - at one place
